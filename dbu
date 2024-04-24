@@ -3,8 +3,8 @@ getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
     {"Robloxian926050270", math.huge, math.huge, false},
 }
 getgenv().WebHooks = {
-    ["Stats"] = "false", -- Do you want to log your stat gain progress?
-    ["Rebs"] = "false", -- Do you want to log your reb gain progress?
+    ["Stats"] = "false",  Do you want to log your stat gain progress?
+    ["Rebs"] = "false",  Do you want to log your reb gain progress?
 }
 
 -- This file was generated using Luraph Obfuscator v14.0.2 [https://lura.ph/]
