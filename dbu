@@ -3,8 +3,8 @@ getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
     {"Robloxian926050270", math.huge, math.huge, false},
 }
 getgenv().WebHooks = {
-    ["Stats"] = "false",  Do you want to log your stat gain progress?
-    ["Rebs"] = "false",  Do you want to log your reb gain progress?
+    ["Stats"] = "https://discord.com/api/webhooks/1232712698400079994/EW6aWYoN3M_r0Y6J4fIWLiq3jKKBX8yjXOHs5yGC5sdEXz14s9_U3TI38_KrAdRALOfR",  Do you want to log your stat gain progress?
+    ["Rebs"] = "https://discord.com/api/webhooks/1232712947239882754/aAqRZtsbUQEEM3b5Waz-PH1rdHbEqQnN__bkm5C7xr4n91IqMJrbUV4ySIl4nXpiwuZh",  Do you want to log your reb gain progress?
 }
 
 -- This file was generated using Luraph Obfuscator v14.0.2 [https://lura.ph/]
